@@ -3,5 +3,5 @@ def auto_classification(df = None):
         try:
             df.info()
         except:
-            print('Done')
+            print('Error_1')
     return df
