@@ -5,3 +5,6 @@ def auto_classification(df = None):
         except:
             print('Error_1')
     return df
+
+def abc(a = None):
+    return print('None')
