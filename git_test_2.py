@@ -7,4 +7,7 @@ def auto_classification(df = None):
     return df
 
 def plus(a, b):
-  return a+b
+    return a+b
+
+def done(a):
+    return print('done')
