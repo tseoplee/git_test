@@ -8,3 +8,8 @@ def auto_classification(df = None):
 
 def abc(a = None):
     return print('None')
+def plus(a, b):
+    return a+b
+
+def done(a):
+    return print('done')
