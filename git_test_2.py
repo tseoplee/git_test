@@ -5,3 +5,6 @@ def auto_classification(df = None):
         except:
             print('Done')
     return df
+
+def plus(a, b):
+  return a+b
