@@ -13,3 +13,6 @@ def plus(a, b):
 
 def done(a):
     return print('done')
+
+def sdf(d):
+    return print('done')
